@@ -22,7 +22,7 @@ Feel free to look at any of my projects and reach out to me in 🇪🇸 🇬🇧
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
-### Software engieering
+### Software engineering
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-purple?&style=for-the-badge&logo=kotlin&logoColor=white)
