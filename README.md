@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Álvaro</h1>
 
-I'm a 22 years old Computer Science graduate living in Sevilla (Spain) with an specialization in AI/DS. I am interested in Data Science, Artificial Intelligence and Software Engineering so I am always looking for new projects I can learn from.
+I'm a CS graduate with an specialization in AI/DS currently pursuing a Master's degree in Logic, Computing and Artificial Intelligence. I am interested in Data Science, Artificial Intelligence and Software Engineering so I am always looking for new projects I can learn from.
 
 Feel free to look at any of my projects and reach out to me in 🇪🇸 🇬🇧/🇺🇸 🇫🇷! 
 
@@ -22,7 +22,7 @@ Feel free to look at any of my projects and reach out to me in 🇪🇸 🇬🇧
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
-### Software engineering
+### Software Engineering
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-purple?&style=for-the-badge&logo=kotlin&logoColor=white)
